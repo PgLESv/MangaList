@@ -586,7 +586,7 @@ oku-sama-wa-niizuma-chan
 D Okusan > 01 > Dropeed
 D omae-wo-otaku-ni-shiteyaru-kara-ore-wo-riajuu-ni-shitekure > 12 > dropped
 omamori-himari
-Omiai Shitakunakatta node, Murinandai na Jouken wo Tsuketara Doukyuusei ga Kita Ken ni Tsuite > 01
+Omiai Shitakunakatta node, Murinandai na Jouken wo Tsuketara Doukyuusei ga Kita Ken ni Tsuite > 2.2
 omoi-ga-omoi-omoi-san
 onecha
 oneechan-wa-koi-youkai
@@ -806,6 +806,7 @@ tenohira-kaitaku-mura-de-isekai-kenkokuki-fueteku-yome-tachi-to-nonbiri-mujintou
 tenraku-akuma-demons-core
 tensai-ouji-no-akaji-kokka-saisei-jutsu-souda-baikoku-shiyou
 Tensei Gotoki de Nigerareru to demo, Niisan? > 2.2
+Tensei Inja wa Hokusoemu > 03
 tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita
 Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta > 35
 Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito > 36
@@ -841,7 +842,7 @@ tonari-no-kashiwagi-san
 Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakattekuru ga Itsunomanika Kaeriuchi ni Shiteita > 06
 tonari-no-seki-no-satou-san
 tondemo-skill-de-isekai-hourou-meshi
-tonikaku-kawaii > 160
+tonikaku-kawaii > 164
 Tonikaku Kawaii: Fly Me To The Moon > 03
 Tonimo Kakunimo > 02 > dropped
 tono-kanri-o-shite-miyou > 16.2
@@ -934,4 +935,5 @@ Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi > 15
 Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made > 04
 zettai-ni-yatte-wa-ikenai-isekai-shoukan
 zombie-city
+Zombie no Afureta Sekai de Ore Dake ga Osowarenai > 01
 Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita > 04
