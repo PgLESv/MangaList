@@ -13,7 +13,7 @@ D 100-man-no-inochi-no-ue-ni-ore-wa-tatte-iru > 06 > dropped
 
 LETRA A
 
-A Cute Guy | Kawaii Hito > 08
+A Cute Guy | Kawaii Hito > 09
 D adamasu-no-majotachi > 11 > dropped
 adolf
 D after-reincarnation-my-party-was-full-of-boys-but-im-not-a-shotacon > 03 > dropped
@@ -137,7 +137,7 @@ C death-note-special-chapter > 01 > completed
 Deatte 5-byou de Battle > 09
 DS deceptions > 15 > dropped by scan ??
 D dekisokonai-no-monster-treiner > 03 > dropped
-DS dekisokonai-to-yobareta-moto-eiyuu-wa > 01 > dropped by scan
+D dekisokonai-to-yobareta-moto-eiyuu-wa > 02 > dropped
 D demon-spirit-seed-manual > 01 > dropped
 Devil-chi > 21
 dice-the-cube-that-changes-everything > 303
@@ -366,7 +366,7 @@ kami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita
 kamigami-ni-sodaterare-shimo-no-saikyou-to-naru > 09
 kanojo-ga-iru-no-ni-betsu-no-onnanoko-ni-kokuhaku-sareta
 kanojo-mo-kanojo
-Kanojo, Okarishimasu > 209
+Kanojo, Okarishimasu > 214
 kanzen-kaihi-healer-no-kiseki > 16
 karakai-jouzu-no-moto-takagi-san > 112
 karakai-jouzu-no-takagi-san
@@ -801,6 +801,7 @@ Tatoeba Ore ga, Champion kara Oujo no Himo ni Job Change Shita to Shite. > 7.2
 tedama-ni-toritai-kurokiya-san > 01
 Teihen Ryoushu no Kanchigai Eiyuutan > 10
 tenkuu-no-shiro-o-moratta-no-de-isekai-de-tanoshiku-asobitai
+Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken > 01
 C Tennen Gyaru Kawaguchi-san! > 10.5 > Completed
 tenohira-kaitaku-mura-de-isekai-kenkokuki-fueteku-yome-tachi-to-nonbiri-mujintou-life
 tenraku-akuma-demons-core
@@ -922,6 +923,7 @@ Yuujin Character no Ore ga Motemakuru Wake Nai Darou? > 06
 yuukyuu-no-gusha-asley-no-kenja-no-susume-to-pochi-no-daibouken > 18
 Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. > 2.3
 Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shu Nekomimi Shojo to Deau > 07
+Yuusha party wo tuihou sareta ore daga > 01
 yuusha-sama-yukagen-wa-ikaga-desu-ka
 Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshitaI > 01
 yuusha-yamemasu
