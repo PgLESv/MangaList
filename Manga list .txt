@@ -84,7 +84,7 @@ boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken > 18
 D boku-no-kanojo-sensei > 06 > dropped
 Boku no Kanojo wa Saikou desu! > 30
 Boku no Kawaii Vampire > 01
-boku-no-kokoro-no-yabai-yatsu > 70.5
+boku-no-kokoro-no-yabai-yatsu > 71.5
 bokutachi-no-remake > 29
 Bokutoku! Nyuuin Seikatsu > 07
 Boku Yori Medatsu na Ryuugakusei > 01
@@ -623,7 +623,7 @@ other-world
 otome-game-sekai-wa-mob-ni-kibishii-sekai-desu
 otome-no-harawata-hoshi-no-iro
 Oukyuu no Trinity > 08
-Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru > 37
+Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru > 38
 over-image
 overflow-iretara-ofureru-kyoudai-no-kimochi
 overgeared
