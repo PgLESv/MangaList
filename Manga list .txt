@@ -66,7 +66,7 @@ bakapple > 01
 Ballpark De Tsukamaete! > 02
 bandai-kaname-wa-asobitai > 21
 bastard-hwang-youngchan > 00 > on hold
-Batsuichi de Nakimushi na Otonari-sanan > 07
+Batsuichi de Nakimushi na Otonari-sanan > 17
 DS because-im-an-uncle-who-runs-a-weapon-shop > 02.2 > dropped by scan?
 D Belial-sama wa Shitennou no Naka Demo XX > 02 > dropped
 C belief-e-sex > 23 > completed
@@ -380,6 +380,7 @@ keizoku-wa-maryoku-nari-hazure-mahou-de-isekai-musou > 12
 Kekkon Yubiwa Monogatari > 51.5
 Kemokko Doubutsuen! > 04
 kemonona-watashi-to-yoimasen-ka > 02
+C Kemunimaku (One Shot) 00 > Completed
 Kenja ga Nakama ni Natta! > 013
 kenja-no-mago > 51
 kenshin-no-keishousha
@@ -728,7 +729,7 @@ shikkoku-saikyo
 shimazaki-nana > 02
 Shimazaki Nana@Oshigoto Boshuu Chuu > 8.5
 Shin no Jitsuryoku wa Girigiri made Kakushite Iyou to Omou > 07
-shin-no-nakama-janai-to-yuusha-no-party-wo-oidasareta-node > 32
+shin-no-nakama-janai-to-yuusha-no-party-wo-oidasareta-node > 36
 shindou-yuusha-to-maid-oneesan
 shingan-no-yuusha-information > 24
 Shinigami Musume wa Peropero Shitai > 02
@@ -934,7 +935,7 @@ zennin-ossan-umarekawattara-sss-rank-jinsei-ga-kakutei-shita > 17
 zetsurin
 zettai-ni-damage-wo-ukenai-skill-wo-moratta-node-boukensha-to-shite-musou-shite-miru > 03.2
 Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi > 15
-Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made > 04
+D Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made > 06 > Dropped
 zettai-ni-yatte-wa-ikenai-isekai-shoukan
 zombie-city
 Zombie no Afureta Sekai de Ore Dake ga Osowarenai > 01
