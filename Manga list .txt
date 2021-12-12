@@ -357,7 +357,7 @@ kage-no-jitsuryokusha-ni-naritakute > 06
 Kage no Kyuutei Majutsushi > 03
 kaguya-wants-to-be-confessed-to-official-doujin
 kaguya-sama-wa-kokurasetai-doujin-ban > 11.5
-kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 242
+kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 243
 kaifuku-jutsushi-no-yarinaoshi > 37.2
 kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life
 Kajiya de Hajimeru Isekai Slow Life > 09
@@ -741,7 +741,7 @@ shiro-madoushi-syrup-san
 Shiro Majutsushi wa Yuusha no Level wo Agetakunai > 01
 shiro-no-koukoku-monogatari
 shiryou-jutsushi-no-otetsudai
-shishidou-san-ni-shikararetai
+shishidou-san-ni-shikararetai > 06
 Shishunki-chan no Shitsukekata > 04
 shitsugyou-kenja-no-nariagari-kirawareta-sainou-wa-sekai-saikyoudeshita > 12
 shokushu-majutsu-shi-no-nariagari
@@ -876,7 +876,7 @@ Unlucky Girl > 04
 unordinary
 until-the-tall-kouhai-girl-and-the-short-senpai-boy-relationship-develops-into-romance
 C Ura-Account Sensei (One Shot) > 01 > Completed
-uragirareta-s-rank-boukensha-no-ore-wa > 16
+D uragirareta-s-rank-boukensha-no-ore-wa > 20 > Dropped
 urami-koi-koi-urami-koi
 usami-san-ha-kamawaretai > 02
 Usotsuki Satsuki wa Shi ga Mieru > 05
