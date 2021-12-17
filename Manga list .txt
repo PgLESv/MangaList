@@ -40,7 +40,7 @@ Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu > 09
 ano-oni-kyoshi-ga-boku-no-ane-ni-narundesuka > 05
 Ansatsu no Kimi wa Korosenai > 01
 aobuta-6-koma > 10
-a-perverts-daily-life > 97
+a-perverts-daily-life > 108
 arafoo-kenja-no-isekai-seikatsu-nikki > 16
 D a-returners-magic-should-be-special > 100 > dropped
 arifureta-nichijou-de-sekai-saikyou > 07
@@ -66,7 +66,7 @@ bakapple > 01
 Ballpark De Tsukamaete! > 02
 bandai-kaname-wa-asobitai > 21
 bastard-hwang-youngchan > 00 > on hold
-Batsuichi de Nakimushi na Otonari-sanan > 17
+Batsuichi de Nakimushi na Otonari-sanan > 19
 DS because-im-an-uncle-who-runs-a-weapon-shop > 02.2 > dropped by scan?
 D Belial-sama wa Shitennou no Naka Demo XX > 02 > dropped
 C belief-e-sex > 23 > completed
@@ -160,6 +160,7 @@ dungeon-reset > 50
 LETRA E
 
 D eden-game > 05 > dropped
+Elf wa Yoru wo Omachikane > 01
 D emeth-meth > 01 > dropped by scan and me
 enami-kun-wa-ikiru-no-ga-tsurai > 07
 ero-manga-sensei > 44
@@ -238,7 +239,7 @@ DS himitsu-no-akuma-chan > 06 > Dropped by scan
 hiota-no-kanojo-ga-ore-no-motteru-eroge-ni-kyoumi-shinshin-nanda-ga > 08
 Hirasaka Hinako ga Erokawaii Koto wo Ore dake ga Shitteiru.Only I know that Hinako Hirasaka is erotically kawaii. ? 03
 D hisshou-dungeon-unei-houhou > 01 > dropped
-hitoribocchi-no-isekai-kouryaku > 100
+hitoribocchi-no-isekai-kouryaku > 107
 Hokkaidou no Geneki Hunter ga Isekai ni Hourikoma Rete Mita - Elf Yome to Meguru Isekai Shuryou Life > 02
 horeshou-no-half-elf-san-the-comic > 04
 D hoshihime-mura-no-naisho-hanashi > 01 > dropped
@@ -346,6 +347,7 @@ jishou-heibon-mazoku-no-eiyuu-life-b-kyuu-mazoku
 jitsu-wa-ore-saikyou-deshita
 jitsu-wa-watashi-wa > 42
 jk-shachiku-wo-kau > 05
+Joucho wo Mechakucha ni Shitekuru Onna > 01
 jui-san-no-oshigoto-in-isekai
 
 LETRA K
@@ -358,7 +360,7 @@ Kage no Kyuutei Majutsushi > 03
 kaguya-wants-to-be-confessed-to-official-doujin
 kaguya-sama-wa-kokurasetai-doujin-ban > 11.5
 kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 243
-kaifuku-jutsushi-no-yarinaoshi > 37.2
+kaifuku-jutsushi-no-yarinaoshi > 38.2
 kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life
 Kajiya de Hajimeru Isekai Slow Life > 09
 kakkou-no-iinazuke > 35
@@ -477,6 +479,7 @@ magi-craft-meister
 D Magika no Kenshi to Basileus > 09 > dropped
 mahou-shoujo-of-the-end
 Mainichi Shine Shine Itte Kuru Gimai ga, Ore ga Neteiru Suki ni Saiminjutsu de Horesaseyou toshite Kuru n desu kedo......! > 01
+Majime Dakedo, Shitain Desu! > 16
 Majime Succubus Hiiragi-san > 02
 majo-ni-sasageru-trick
 Majo-senpai Nippou > 06
@@ -841,10 +844,11 @@ tokushu-seiheki-kyoushitsu-e-youkoso
 tomodachi-no-imouto-ga-ore-ni-dake-uzai > 07
 tonari-no-furi-san-ga-tonikaku-kowai
 tonari-no-kashiwagi-san
+Tonari no Kuroki-san wa Nomu to Yabai > 02
 Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakattekuru ga Itsunomanika Kaeriuchi ni Shiteita > 06
 tonari-no-seki-no-satou-san
 tondemo-skill-de-isekai-hourou-meshi
-tonikaku-kawaii > 164
+tonikaku-kawaii > 164.5
 Tonikaku Kawaii: Fly Me To The Moon > 03
 Tonimo Kakunimo > 02 > dropped
 tono-kanri-o-shite-miyou > 16.2
