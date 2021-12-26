@@ -66,7 +66,7 @@ bakapple > 01
 Ballpark De Tsukamaete! > 02
 bandai-kaname-wa-asobitai > 21
 bastard-hwang-youngchan > 00 > on hold
-Batsuichi de Nakimushi na Otonari-sanan > 19
+Batsuichi de Nakimushi na Otonari-sanan > 20
 DS because-im-an-uncle-who-runs-a-weapon-shop > 02.2 > dropped by scan?
 D Belial-sama wa Shitennou no Naka Demo XX > 02 > dropped
 C belief-e-sex > 23 > completed
@@ -84,7 +84,7 @@ boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken > 18
 D boku-no-kanojo-sensei > 06 > dropped
 Boku no Kanojo wa Saikou desu! > 30
 Boku no Kawaii Vampire > 01
-boku-no-kokoro-no-yabai-yatsu > 71.5
+boku-no-kokoro-no-yabai-yatsu > 74.5
 bokutachi-no-remake > 29
 Bokutoku! Nyuuin Seikatsu > 07
 Boku Yori Medatsu na Ryuugakusei > 01
@@ -280,6 +280,7 @@ D inaka-no-home-center-otoko-no-jiyuu-na-isekai-seikatsu > 03 > Dropped
 infection > 12 > dropped
 D infinite-apostles-and-twelve-war-girls > 01 > dropped
 D infinite-viral-infection > 03 > dropped
+Ingoku Danchi > 01
 OH ingoshima > ?? > on hold
 C Inran Hitozuma no Seishori Support (One Shot) > 01 > Completed
 isekai-cheat-magic-swordsman > 01
@@ -606,7 +607,7 @@ Ookami-San To Watashi, Tsugai no Okite: Yotogi Douwa: Akazukin > 06
 ore-dake-haireru-kakushi-dungeon-kossori-kitaete-sekai-saikyou
 ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-rachirareta-ken
 Ore no Aneki wa Kioku Soushitsu: Sex tte Nani? > 04
-ore-no-genjitsu-wa-ren-ai-game-ka-to-omottara-inochigake-no-game-datta
+D ore-no-genjitsu-wa-ren-ai-game-ka-to-omottara-inochigake-no-game-datta > 9.2 > Dropped
 ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou > 56
 Ore no Imouto ga Konnani Kawaii Wake ga Nai > 02
 ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ayase-if > 01
