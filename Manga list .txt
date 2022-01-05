@@ -84,7 +84,7 @@ boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken > 18
 D boku-no-kanojo-sensei > 06 > dropped
 Boku no Kanojo wa Saikou desu! > 30
 Boku no Kawaii Vampire > 01
-boku-no-kokoro-no-yabai-yatsu > 74.5
+boku-no-kokoro-no-yabai-yatsu > 77
 bokutachi-no-remake > 29
 Bokutoku! Nyuuin Seikatsu > 07
 Boku Yori Medatsu na Ryuugakusei > 01
@@ -263,7 +263,7 @@ ichizu-de-bitch-na-kouhai > 39
 idol-to-otaku-no-risou-no-kankei > 36
 iinchou-sakki-toile-de-onatteta-desho-itta-kaisuu-ga-barechau-sekai > 44
 Ijimerare Musume to Ijirikko ~ Ore Shika Shiranaiyarashii Karada > 03
-ijiranaide-nagatoro-san > 94
+ijiranaide-nagatoro-san > 96
 ike-loli > 13
 Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Shita > 3.1
 D Ikenai Kanojo no Otetsudai > 04 > dropped
@@ -363,7 +363,7 @@ kaguya-sama-wa-kokurasetai-doujin-ban > 11.5
 kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 248
 kaifuku-jutsushi-no-yarinaoshi > 38.2
 kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life
-Kajiya de Hajimeru Isekai Slow Life > 09
+Kajiya de Hajimeru Isekai Slow Life > 11
 kakkou-no-iinazuke > 35
 kami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita
 kamigami-ni-sodaterare-shimo-no-saikyou-to-naru > 09
@@ -377,7 +377,7 @@ kawaii-dake-janai-onnanoko
 OH kawaii-joushi-wo-komarasetai > 08 > On Hold
 kawaii-kouhai-ni-iwasaretai > 04
 kawaiikereba-hentai-demo-suki-ni-natte-kuremasu-ka
-'Kawaii' wa Kimi no mono > 05
+'Kawaii' wa Kimi no mono > 13
 Keikenchi Chochiku de Nonbiri Shoushin Ryokou > 03
 keizoku-wa-maryoku-nari-hazure-mahou-de-isekai-musou > 12
 Kekkon Yubiwa Monogatari > 51.5
@@ -564,6 +564,7 @@ nande-koko-ni-sensei-ga
 nankoufuraku-no-maou-jou-e-youkoso > 01.1
 C Nante Nasakenai Bokura da. > 01 > Completed
 narakarana > 01
+Nazotoki yori mo Taihen da > 02
 neet-dakedo-hello-work-ni-ittara-isekai-ni-tsuretekareta
 nega-kun-to-poji-chan > 16
 nekopara
@@ -582,7 +583,7 @@ nonbiri-vrmmoki
 noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta
 nukenai-seiken-chan > 37
 nuzi-xueyuan-de-nansheng
-Nyanta to Pomeko ~Imasara Shinjite Iru to Iwaretemo Mou Teokure da~ > 2
+Nyanta to Pomeko ~Imasara Shinjite Iru to Iwaretemo Mou Teokure da~ > 04
 nyatto
 
 LETRA O
@@ -616,6 +617,7 @@ ore-no-kantei-skill-ga-cheat-sugite
 Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai > 05
 ore-to-kanojo-no-moeyo-pen
 ore-wa-inu-dewa-arimasen > 21.5
+Ore wa Seikan Kokka no Akutoku Ryoushu! > 07
 D Ore wo Suki nano wa Omae dake ka yo > 27 > dropped
 ore-maou-dakedo-baretenai-yo-ne
 orenchi-ni-kita-onna-kishi-to-inakagurashi-suru-koto-ni-natta-ken
