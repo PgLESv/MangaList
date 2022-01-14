@@ -632,6 +632,7 @@ Otaku ni Otoku na Gyaru Gurashi > 01
 other-world
 otome-game-sekai-wa-mob-ni-kibishii-sekai-desu
 otome-no-harawata-hoshi-no-iro
+Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken > 2.1
 Oukyuu no Trinity > 08
 Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru > 38
 over-image
@@ -854,7 +855,7 @@ Tonari no Kuroki-san wa Nomu to Yabai > 02
 Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakattekuru ga Itsunomanika Kaeriuchi ni Shiteita > 06
 tonari-no-seki-no-satou-san
 tondemo-skill-de-isekai-hourou-meshi
-tonikaku-kawaii > 169
+tonikaku-kawaii > 170
 Tonikaku Kawaii: Fly Me To The Moon > 03
 Tonimo Kakunimo > 02 > dropped
 tono-kanri-o-shite-miyou > 16.2
@@ -930,7 +931,7 @@ Yumemiru Danshi wa Genjitsushugisa > 4.1
 yuragi-sou-no-yuuna-san
 yuru-fuwa-noka-no-moji-bake-skill
 yuugai-shitei-doukyuusei
-Yuujin Character no Ore ga Motemakuru Wake Nai Darou? > 06
+Yuujin Character no Ore ga Motemakuru Wake Nai Darou? > 09
 yuukyuu-no-gusha-asley-no-kenja-no-susume-to-pochi-no-daibouken > 18
 Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. > 2.3
 Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shu Nekomimi Shojo to Deau > 07
