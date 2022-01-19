@@ -395,7 +395,7 @@ Kimi ga Radio wo Suki Dakara > 01
 C Kimi-iro Days: Onnanoko no Karada ni Nattara Nani wo Suru? > 11 > Completed
 D kimi-no-koto-ga-dai-dai-dai-dai-dai-suki-na-100-nin-no-kanojo > 05 > Dropped
 Kimi no Koto Tabete Iii? > 05
-Kimi no Okaasan wo Boku ni Kudasai! > 05
+Kimi no Okaasan wo Boku ni Kudasai! > 11
 kimi-no-wasurekata-wo-oshiete > 01
 Kimi to Boku no Alternative Lingerie > 06
 kimi-to-boku-no-saigo-no-senjou
@@ -470,7 +470,7 @@ love-in-hell-death-life
 D Love Score > 08 > dropped
 lucky-guy
 lust-awakening
-lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life > 28
+lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life > 30.1
 lv999-no-murabito > 17
 
 LETRA M
@@ -495,7 +495,7 @@ maou-desu-onna-yuusha-no-hahaoya-to-saikon-shita-no-de
 maou-gakuen-no-hangyakusha
 maou-gakuin-no-futekigousha > 13
 maou-gun-saikyou-no-majutsushi-wa-ningen-datta
-maou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru > 39
+maou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru > 40
 maou-no-musume-wa-yasashi-sugiru
 maou-no-musume-sugoku-choroi > 10
 maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii
@@ -855,7 +855,7 @@ Tonari no Kuroki-san wa Nomu to Yabai > 02
 Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakattekuru ga Itsunomanika Kaeriuchi ni Shiteita > 06
 tonari-no-seki-no-satou-san
 tondemo-skill-de-isekai-hourou-meshi
-tonikaku-kawaii > 170
+tonikaku-kawaii > 175
 Tonikaku Kawaii: Fly Me To The Moon > 03
 Tonimo Kakunimo > 02 > dropped
 tono-kanri-o-shite-miyou > 16.2
