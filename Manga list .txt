@@ -140,7 +140,7 @@ D dekisokonai-no-monster-treiner > 03 > dropped
 D dekisokonai-to-yobareta-moto-eiyuu-wa > 02 > dropped
 D demon-spirit-seed-manual > 01 > dropped
 Devil-chi > 21
-dice-the-cube-that-changes-everything > 303
+dice-the-cube-that-changes-everything > 351
 D dihao-laogong-tai-kuangre > 01 > dropped
 dogeza-de-tanondemita > 13
 D dokuzakura > 01 > dropped
@@ -225,7 +225,7 @@ hayasegawa-kun-to-megami-na-oneesan > 01 > dropped
 hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsusha > 19
 hazure-skill-mapping-wo-te-ni-shita-shonen-ha-saikyou-party-to-dungeon-ni-idomu > 08
 hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made > 18
-Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru > 02
+Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru > 07
 Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru > 03
 Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san > 12
 Hensoku-kei Quadrangle > 08
@@ -259,6 +259,7 @@ i-brought-home-a-succubus-who-failed-to-find-a-job > 21
 DS i-cant-marry-a-hugging-pillow > 03 > dropped by scan
 I Can't Tell Which Twin is Which Sex > 03
 i-don%E2%80%99t-want-to-be-bullied-by-girls > 05
+Ichijou-san wa Kao ni Deyasui > 03
 ichiokunen-button-o-rendashita-ore-wa-kidzuitara-saikyou-ni-natteita > 9.1
 ichizu-de-bitch-na-kouhai > 39
 idol-to-otaku-no-risou-no-kankei > 36
@@ -344,7 +345,7 @@ Jeanne to Hajimete > 01
 jichou-shinai-motoyuusha-no-tsuyokute-tanoshii-new-game
 jikan-teishi-yuusha > 11
 D jisatsu-shitai-kedo-sore-wa-chotto-kowai-kara-yandere-kanojo-wo-tsukutte-kanojo-ni-koroshite-moraou-to-suru-kedo-nakanaka-umakuikanai-hanashi > 16 > dropped
-jishou-f-rank-no-oniisama-ga-game-de-hyouka-sareru
+jishou-f-rank-no-oniisama-ga-game-de-hyouka-sareru > 14
 jishou-heibon-mazoku-no-eiyuu-life-b-kyuu-mazoku
 jitsu-wa-ore-saikyou-deshita
 jitsu-wa-watashi-wa > 42
@@ -355,7 +356,7 @@ jui-san-no-oshigoto-in-isekai
 LETRA K
 
 Kaettekita Motoyuusha > 2.2
-kaette-kudasai-akutsu-san > 79
+kaette-kudasai-akutsu-san > 96
 Kagekuri Kitan > 01
 kage-no-jitsuryokusha-ni-naritakute > 06
 Kage no Kyuutei Majutsushi > 03
@@ -855,7 +856,7 @@ Tonari no Kuroki-san wa Nomu to Yabai > 02
 Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakattekuru ga Itsunomanika Kaeriuchi ni Shiteita > 06
 tonari-no-seki-no-satou-san
 tondemo-skill-de-isekai-hourou-meshi
-tonikaku-kawaii > 175
+tonikaku-kawaii > 177
 Tonikaku Kawaii: Fly Me To The Moon > 03
 Tonimo Kakunimo > 02 > dropped
 tono-kanri-o-shite-miyou > 16.2
