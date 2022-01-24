@@ -193,7 +193,7 @@ garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari > 
 gemini-wa-otoshigoro > 01
 Genjitsu de Love Comedy Dekinai to Dare ga Kimeta? > 03
 genjitsushugisha-no-oukokukaizouki > 22 > dropped
-genkai-level-1-kara-no-nariagari > 10.1
+genkai-level-1-kara-no-nariagari > 10.2
 Getsuyoubi no Tawawa > 09
 ghost-girl > 02
 Gimai Seikatsu > 1.1
@@ -552,7 +552,7 @@ My Life as Inukai-san's Dog > 01
 my-lolita-brother
 my-love-doll
 my-lover-was-stolen-and-i-was-kicked-out-of-the-hero-s-party > 1
-My Neighbor Alien is Scary > 07
+My Neighbor Alien is Scary > 13
 my-sister-has-amnesia-whats-sex
 my-tiny-senpai-from-work > 24
 my-wife-is-a-fox-spirit
