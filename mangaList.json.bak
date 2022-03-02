@@ -350,7 +350,7 @@
         },
         {
             "Nome": "boku-no-kokoro-no-yabai-yatsu ",
-            "Capitulo": " 85.5"
+            "Capitulo": " 86.5"
         },
         {
             "Nome": "bokutachi-no-remake ",
@@ -1042,7 +1042,7 @@
         },
         {
             "Nome": "ijiranaide-nagatoro-san ",
-            "Capitulo": " 98"
+            "Capitulo": " 100"
         },
         {
             "Nome": "ike-loli ",
@@ -1484,6 +1484,11 @@
         {
             "Nome": "kanojo-ga-iru-no-ni-betsu-no-onnanoko-ni-kokuhaku-sareta",
             "Capitulo": "",
+            "Situacao": ""
+        },
+        {
+            "Nome": "Kanojo ni Uwaki Sareteita Ore ga, Koakuma na Kouhai ni Natsukareteimasu",
+            "Capitulo": "02",
             "Situacao": ""
         },
         {
@@ -3532,6 +3537,11 @@
             "Situacao": ""
         },
         {
+            "Nome": "The Many Weaknesses of Ayaka the Yankee JK",
+            "Capitulo": "01",
+            "Situacao": ""
+        },
+        {
             "Nome": "The Player That Can’t Level Up ",
             "Capitulo": " 07"
         },
@@ -3863,7 +3873,8 @@
         },
         {
             "Nome": "Yankee JK Kuzuhana-chan ",
-            "Capitulo": " 16"
+            "Capitulo": " 18"
+            "Situacao": "Dropped"
         },
         {
             "Nome": "ankee Musume to o Tomodachi Kara Hajimete Mita ",

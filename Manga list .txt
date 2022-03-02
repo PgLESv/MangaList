@@ -87,7 +87,7 @@ boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken > 18
 D boku-no-kanojo-sensei > 06 > dropped
 Boku no Kanojo wa Saikou desu! > 30
 Boku no Kawaii Vampire > 01
-boku-no-kokoro-no-yabai-yatsu > 85.5
+boku-no-kokoro-no-yabai-yatsu > 86.5
 bokutachi-no-remake > 29
 Bokutoku! Nyuuin Seikatsu > 07
 Boku Yori Medatsu na Ryuugakusei > 01
@@ -268,7 +268,7 @@ ichizu-de-bitch-na-kouhai > 39
 idol-to-otaku-no-risou-no-kankei > 36
 iinchou-sakki-toile-de-onatteta-desho-itta-kaisuu-ga-barechau-sekai > 44
 Ijimerare Musume to Ijirikko ~ Ore Shika Shiranaiyarashii Karada > 03
-ijiranaide-nagatoro-san > 98
+ijiranaide-nagatoro-san > 100
 ike-loli > 13
 Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Shita > 3.1
 D Ikenai Kanojo no Otetsudai > 04 > dropped
@@ -374,6 +374,7 @@ kakkou-no-iinazuke > 35
 kami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita
 kamigami-ni-sodaterare-shimo-no-saikyou-to-naru > 09
 kanojo-ga-iru-no-ni-betsu-no-onnanoko-ni-kokuhaku-sareta
+Kanojo ni Uwaki Sareteita Ore ga, Koakuma na Kouhai ni Natsukareteimasu > 02
 kanojo-mo-kanojo
 Kanojo, Okarishimasu > 215
 kanzen-kaihi-healer-no-kiseki > 16
@@ -537,7 +538,7 @@ monogatari-no-naka-no-hito
 Monster ga Afureru Sekai ni Natta Node, Suki ni Ikitai to Omoimasu > 19
 monster-no-goshujinsama > 14
 moto-saikyou-no-kenshi-wa-isekai-mahou-ni-akogareru
-moto-sekai-ichii-subchara-ikusei-nikki-hai-player-isekai-wo-kouryakuchuu > 23
+moto-sekai-ichii-subchara-ikusei-nikki-hai-player-isekai-wo-kouryakuchuu > 34
 Moufu Oneesan no Atatamekata > 02
 Moujuusei Shounen Shoujo > 11
 mousou-megane
@@ -842,6 +843,7 @@ the-girl-who-always-wears-gloves
 the-hero-who-returned-remains-the-strongest-in-the-modern-world
 the-key-to-my-body > 03
 the-labyrinth-raids-of-the-ultimate-tank
+The Many Weaknesses of Ayaka the Yankee JK > 01
 The Player That Can’t Level Up > 07
 the-reincarnation-of-the-strongest-onmyoji
 D the-stand-up-guy > 02 > dropped
