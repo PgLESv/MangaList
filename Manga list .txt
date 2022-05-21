@@ -215,7 +215,7 @@ hachigatsu-no-ghost > 02
 D hagure-seirei-ino-shinsatsu-kiroku-seijo-kishi-dan-to-iyashi-no-kamiwaza > 02 > dropped
 haikei-koroshiya-san-to-kekkon-shimashita > 26
 haitekudasai-takamine-san > 27
-hajimete-no-gal > 133
+hajimete-no-gal > 137
 Hakanai Kimi wa Moukou wo Hajimeru > 09
 Hametsu no Kanojo > 04
 hametsu-no-oukoku > 22
@@ -268,7 +268,7 @@ ichizu-de-bitch-na-kouhai > 39
 idol-to-otaku-no-risou-no-kankei > 36
 iinchou-sakki-toile-de-onatteta-desho-itta-kaisuu-ga-barechau-sekai > 44
 Ijimerare Musume to Ijirikko ~ Ore Shika Shiranaiyarashii Karada > 03
-ijiranaide-nagatoro-san > 101
+ijiranaide-nagatoro-san > 104
 ijiranaide-nagatoro-san: Comic Anthology > 10
 ike-loli > 13
 Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Shita > 3.1
@@ -312,7 +312,7 @@ isekai-mahou-wa-okureteru > 06
 isekai-majutsushi-wa-mahou-wo-tonaenai-the-comic > 08
 isekai-man-chikin-hp-1-no-mama-de-saikyou-saisoku-danjon-kouryaku
 isekai-maou-to-shoukan-shoujo-dorei-majutsu
-isekai-meikyuu-de-harem-wo > 19.2
+isekai-meikyuu-de-harem-wo > 20.3
 isekai-meikyuu-no-saishinbu-o-mezasou
 isekai-monster-breeder-cheat-wa-arukedo-nonbiri-ikusei-shiteimasu > 23
 Isekai ni Kita Boku wa Kiyoubinbode Subayasa Tayorina Tabi wo Suru > 01
@@ -503,7 +503,7 @@ maou-desu-onna-yuusha-no-hahaoya-to-saikon-shita-no-de
 maou-gakuen-no-hangyakusha
 maou-gakuin-no-futekigousha > 13
 maou-gun-saikyou-no-majutsushi-wa-ningen-datta
-maou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru > 40
+maou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru > 44
 maou-no-musume-wa-yasashi-sugiru
 maou-no-musume-sugoku-choroi > 10
 maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii
@@ -548,7 +548,7 @@ D Mujintou de Elf to Kyoudou Seikatsu @comic > 04 > Dropped
 murenase-shiiton-gakuen
 mushikago-no-cagaster
 mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakattan-daga
-mushoku-tensei-isekai-ittara-honki-dasu > 76
+mushoku-tensei-isekai-ittara-honki-dasu > 80
 Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen > 02
 musume-janakutte-mama-ga-suki-nano
 My Absolute Youthfulness in Summer > 01
@@ -724,7 +724,7 @@ sekai-ka-kanojo-ka-erabenai
 sekai-no-owari-no-encore
 sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru
 sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha
-sekimen-shinaide-sekime-san > 13
+sekimen-shinaide-sekime-san > 27
 senken-no-majutsushi-to-yobareta-kenshi > 14
 senmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru > 2.2
 D Sen no Skill wo Motsu Otoko: Isekai de Shoukanjuu Hajimemashita! > 07 > dropped
@@ -841,7 +841,7 @@ the-demon-king-who-lost-his-job
 the-dungeon-master
 the-fiancees-live-together
 the-gamer
-The Girl from Random Chatting! > 225/6
+The Girl from Random Chatting! > 231
 the-girl-who-always-wears-gloves
 the-hero-who-returned-remains-the-strongest-in-the-modern-world
 the-key-to-my-body > 03
