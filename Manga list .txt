@@ -40,7 +40,7 @@ Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu > 09
 ano-oni-kyoshi-ga-boku-no-ane-ni-narundesuka > 05
 Ansatsu no Kimi wa Korosenai > 01
 aobuta-6-koma > 10
-a-perverts-daily-life > 110
+a-perverts-daily-life > 113
 arafoo-kenja-no-isekai-seikatsu-nikki > 16
 !!!!!!!!!!!!!!!!
 Upgrade anilist stopped here!!
@@ -87,10 +87,11 @@ boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken > 18
 D boku-no-kanojo-sensei > 06 > dropped
 Boku no Kanojo wa Saikou desu! > 30
 Boku no Kawaii Vampire > 01
-boku-no-kokoro-no-yabai-yatsu > 86.5
+boku-no-kokoro-no-yabai-yatsu > 91.5
 bokutachi-no-remake > 29
 Bokutoku! Nyuuin Seikatsu > 07
 Boku Yori Medatsu na Ryuugakusei > 01
+Boroboro no Elf-san wo Shiawaseni Suru Kusuri Uri-san > 27
 D bouken-ni-tsuitekonaide-okaasan > 02 > dropped
 Boukensha Guild no Bannou Advisor > 1.2
 boukensha-license-o-hakudatsu-sareta-ossan-dakedo > 4.4
@@ -143,7 +144,7 @@ D dekisokonai-no-monster-treiner > 03 > dropped
 D dekisokonai-to-yobareta-moto-eiyuu-wa > 02 > dropped
 D demon-spirit-seed-manual > 01 > dropped
 Devil-chi > 21
-dice-the-cube-that-changes-everything > 351
+dice-the-cube-that-changes-everything > 357
 D dihao-laogong-tai-kuangre > 01 > dropped
 dogeza-de-tanondemita > 13
 D dokuzakura > 01 > dropped
@@ -196,7 +197,7 @@ garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari > 
 gemini-wa-otoshigoro > 01
 Genjitsu de Love Comedy Dekinai to Dare ga Kimeta? > 03
 genjitsushugisha-no-oukokukaizouki > 22 > dropped
-genkai-level-1-kara-no-nariagari > 10.2
+genkai-level-1-kara-no-nariagari > 11.2
 Getsuyoubi no Tawawa > 09
 ghost-girl > 02
 Gimai Seikatsu > 1.1
@@ -268,7 +269,7 @@ ichizu-de-bitch-na-kouhai > 39
 idol-to-otaku-no-risou-no-kankei > 36
 iinchou-sakki-toile-de-onatteta-desho-itta-kaisuu-ga-barechau-sekai > 44
 Ijimerare Musume to Ijirikko ~ Ore Shika Shiranaiyarashii Karada > 03
-ijiranaide-nagatoro-san > 104
+ijiranaide-nagatoro-san > 111
 ijiranaide-nagatoro-san: Comic Anthology > 10
 ike-loli > 13
 Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Shita > 3.1
@@ -294,6 +295,7 @@ Isekai AV Satsueitai > 03
 D isekai-cheat-magician > 03 > dropped
 D isekai-cheat-survival-meshi > 07 > dropped
 isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru > 10
+Isekai Craft Gurashi Jiyu Kimamana Seisan Shoku No Honobono Slow Life > 01
 isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken > 20
 isekai-de-saikyou-no-tsue > 01.5
 isekai-de-skill-wo-kaitai-shitara-cheat-na-yome-ga-zoushoku-shimashita > 25
@@ -324,7 +326,7 @@ isekai-nonbiri-nouka
 Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou > 13
 isekai-one-turn-kill-nee-san
 isekai-ryouridou
-isekai-shoukan-wa-nidome-desu > 23
+isekai-shoukan-wa-nidome-desu > 28
 isekai-shuppan-no-henshuu-san
 isekai-tenisha-no-my-pace-kouryakuki
 Isekai Teni shita node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru > 08
@@ -332,6 +334,7 @@ isekai-tensei-no-boukensha
 D isekai-tensei-saretenee > 01 > Dropped
 Isekai Tenseisha Koroshi – Cheat Slayer > 01
 isekai-wo-seigyo-mahou-de-kirihirake
+Isekai Yakkyoku > 39
 isekai-yururi-kikou-raising-children-while-being-an-adventurer > 09
 Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu > 04
 ishuzoku-reviewers
@@ -361,14 +364,14 @@ jui-san-no-oshigoto-in-isekai
 LETRA K
 
 Kaettekita Motoyuusha > 2.2
-kaette-kudasai-akutsu-san > 101
+kaette-kudasai-akutsu-san > 113
 Kagekuri Kitan > 01
 kage-no-jitsuryokusha-ni-naritakute > 06
 Kage no Kyuutei Majutsushi > 03
 kaguya-wants-to-be-confessed-to-official-doujin
 kaguya-sama-wa-kokurasetai-doujin-ban > 11.5
-kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 255
-kaifuku-jutsushi-no-yarinaoshi > 41
+kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 273
+kaifuku-jutsushi-no-yarinaoshi > 43.1
 kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life
 Kajiya de Hajimeru Isekai Slow Life > 11
 kakkou-no-iinazuke > 35
@@ -377,7 +380,7 @@ kamigami-ni-sodaterare-shimo-no-saikyou-to-naru > 09
 kanojo-ga-iru-no-ni-betsu-no-onnanoko-ni-kokuhaku-sareta
 Kanojo ni Uwaki Sareteita Ore ga, Koakuma na Kouhai ni Natsukareteimasu > 02
 kanojo-mo-kanojo
-Kanojo, Okarishimasu > 228
+Kanojo, Okarishimasu > 237
 kanzen-kaihi-healer-no-kiseki > 16
 karakai-jouzu-no-moto-takagi-san > 112
 karakai-jouzu-no-takagi-san
@@ -446,7 +449,7 @@ Kouchuu Gunshikan, Boukensha ni Naru > 13
 kou-iu-no-ga-ii-no
 kouryakuhon-o-kushi-suru-saikyou-no-mahoutsukai
 kuangshen
-kubo-san-wa-boku-mobu-wo-yurusanai > 91
+kubo-san-wa-boku-mobu-wo-yurusanai > 95
 kujibiki-tokushou-musou-harem-ken
 "Kukuku....... He Is the Weakest of the Four Heavenly Monarchs." I Was Dismissed From My Job, but Somehow I Became the Master of a Hero and a Holy Maiden > 9.2
 Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai > 15
@@ -519,7 +522,7 @@ Marry Me! > 01
 martial-god-asura
 masamune-kun-no-revenge-after-school > 07
 maseki-gurume-mamono-no-chikara-o-tabeta-ore-wa-saikyou > 21
-mato-seihei-no-slave > 78
+mato-seihei-no-slave > 83
 meccha-shoukan-sareta-ken > 12.5
 D Megami-ryou no Ryoubo-kun. > 01 > dropped
 megan-to-dangan-o-tsukatte-isekai-o-buchinuku
@@ -548,7 +551,7 @@ D Mujintou de Elf to Kyoudou Seikatsu @comic > 04 > Dropped
 murenase-shiiton-gakuen
 mushikago-no-cagaster
 mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakattan-daga
-mushoku-tensei-isekai-ittara-honki-dasu > 80
+mushoku-tensei-isekai-ittara-honki-dasu > 82
 Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen > 02
 musume-janakutte-mama-ga-suki-nano
 My Absolute Youthfulness in Summer > 01
@@ -649,8 +652,8 @@ overgeared
 
 LETRA P
 
-parallel-paradise
-party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-nitsuki > 11
+parallel paradise > 199
+party kara tsuihou sareta sono chiyushi jitsu wa saikyou nitsuki > 11
 Pashiri na Boku to Koisuru Banchou-san > 77
 peerless-genius-system
 peter-grill-to-kenja-no-jikan
@@ -841,7 +844,7 @@ the-demon-king-who-lost-his-job
 the-dungeon-master
 the-fiancees-live-together
 the-gamer
-The Girl from Random Chatting! > 231
+The Girl from Random Chatting! > 233
 the-girl-who-always-wears-gloves
 the-hero-who-returned-remains-the-strongest-in-the-modern-world
 the-key-to-my-body > 03
@@ -894,6 +897,7 @@ uchi-no-kaisha-no-chiisai-senpai-no-hanashi-werwolf-version
 uchi-no-musume-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai
 Uchuujin no Shiwaza desu! > 01
 ueno-san-wa-bukiyou
+Uketsukejo ni Kokuhaku Shitakute Guild ni Kayoitsumetara Eiyu ni Natteta > 08
 ultimate-anti-hero
 umarekawatta-kensei-wa-raku-o-shitai
 Unlucky Girl > 04
@@ -936,6 +940,7 @@ yaoguai-mingdan
 Yamada-kun to Lv999 no Koi wo Suru > 36
 Yamashiro-chan wa Kamatte Hoshii > 01
 Yandere Kanojo ni Nemura Sete Moraenai > 11
+Yofukashi No Uta > 138
 D Yome no Manimani > 01 > dropped
 Youjo to Sukoppu to Magan Ou > 6.5
 Youki ni Naritai Shigure-san > 01
