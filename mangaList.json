@@ -6,8 +6,8 @@
         },
         {
             "Nome": "C 5-toubun-no-hanayome ",
-            "Capitulo": " 122.6 ",
-            "Situacao": "completed"
+			"Capitulo": " 122.6 ",
+			"Situacao": "completed"
         },
         {
             "Nome": "6-sai no Kenja wa Hikage no Michi wo Ayumitai ",
@@ -425,6 +425,10 @@
             "Capitulo": " 23"
         },
         {
+            "Nome": "Chiteki de Cool na Kouhai Bijo, Ore no Kai Neko ni naru ",
+            "Capitulo": " 01"
+        },
+        {
             "Nome": "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin ",
             "Capitulo": " 34"
         },
@@ -744,6 +748,10 @@
             "Situacao": " Dropped"
         },
         {
+            "Nome": "Gakuenmono no Otome Game no Sekai ni Tensei Shita kedo, Cheat-mochi no Haikei Danshi Seitodatta You desu ",
+            "Capitulo": " 02"
+        },
+        {
             "Nome": "gal-kishi-angelica ",
             "Capitulo": " 04"
         },
@@ -1046,7 +1054,7 @@
         },
         {
             "Nome": "ijiranaide-nagatoro-san ",
-            "Capitulo": " 111"
+            "Capitulo": " 112"
         },
         {
             "Nome": "ijiranaide-nagatoro-san: Comic Anthology ",
@@ -1139,6 +1147,11 @@
             "Nome": "C Inran Hitozuma no Seishori Support (One Shot) ",
             "Capitulo": " 01 ",
             "Situacao": "Completed"
+        },
+        {
+            "Nome": "Inu ni Nattara Suki na Hito ni Hirowareta ",
+            "Capitulo": " 41 ",
+            "Situacao": "Reading"
         },
         {
             "Nome": "isekai-cheat-magic-swordsman ",
@@ -1445,7 +1458,7 @@
         },
         {
             "Nome": "kaette-kudasai-akutsu-san ",
-            "Capitulo": " 112"
+            "Capitulo": " 117"
         },
         {
             "Nome": "Kagekuri Kitan ",
@@ -1470,11 +1483,11 @@
         },
         {
             "Nome": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen ",
-            "Capitulo": " 273"
+            "Capitulo": " 275"
         },
         {
             "Nome": "kaifuku-jutsushi-no-yarinaoshi ",
-            "Capitulo": " 43.1"
+            "Capitulo": " 45.1"
         },
         {
             "Nome": "kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life",
@@ -1826,7 +1839,7 @@
         },
         {
             "Nome": "kubo-san-wa-boku-mobu-wo-yurusanai ",
-            "Capitulo": " 95"
+            "Capitulo": " 105"
         },
         {
             "Nome": "kujibiki-tokushou-musou-harem-ken",
@@ -2143,8 +2156,8 @@
             "Capitulo": " 21"
         },
         {
-            "Nome": "mato-seihei-no-slave ",
-            "Capitulo": " 83"
+            "Nome": "mato seihei no slave ",
+            "Capitulo": " 88"
         },
         {
             "Nome": "meccha-shoukan-sareta-ken ",
@@ -2827,7 +2840,7 @@
         },
         {
             "Nome": "risou-no-himo-seikatsu ",
-            "Capitulo": " 39"
+            "Capitulo": " 49"
         },
         {
             "Nome": "rokudenashi-majutsu-koushi-to-akashic-records",
@@ -3341,7 +3354,7 @@
         },
         {
             "Nome": "Strategic Lovers ",
-            "Capitulo": " 07"
+            "Capitulo": " 09"
         },
         {
             "Nome": "strongest-cultivation-system",
@@ -3449,6 +3462,11 @@
         {
             "Nome": "Teihen Ryoushu no Kanchigai Eiyuutan ",
             "Capitulo": " 10"
+        },
+        {
+            "Nome": "Tekitou na Maid no Oneesan to Erasou de Ichizu na Bocchan",
+            "Capitulo": "08",
+            "Situacao": "Reading"
         },
         {
             "Nome": "tenkuu-no-shiro-o-moratta-no-de-isekai-de-tanoshiku-asobitai",
@@ -3574,6 +3592,11 @@
         {
             "Nome": "the-reincarnation-of-the-strongest-onmyoji",
             "Capitulo": "",
+            "Situacao": ""
+        },
+        {
+            "Nome": "The Sexy Alien Next Door",
+            "Capitulo": "04",
             "Situacao": ""
         },
         {
@@ -3801,6 +3824,11 @@
             "Nome": "until-the-tall-kouhai-girl-and-the-short-senpai-boy-relationship-develops-into-romance",
             "Capitulo": "",
             "Situacao": ""
+        },
+        {
+            "Nome": "Updater",
+            "Capitulo": "92",
+            "Situacao": "Reading"
         },
         {
             "Nome": "C Ura-Account Sensei (One Shot) ",
@@ -4053,7 +4081,7 @@
         },
         {
             "Nome": "Zombie no Afureta Sekai de Ore Dake ga Osowarenai ",
-            "Capitulo": " 01"
+            "Capitulo": " 07"
         },
         {
             "Nome": "Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita ",
