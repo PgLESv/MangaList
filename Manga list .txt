@@ -78,8 +78,9 @@ bigger-than-mr-daves > 07
 D Bijin Onna Joushi Takizawa-san > 04 > Dropped
 D Black Kanojo > 06 > dropped
 Black na Kishidan no Dorei ga White na Boukensha Guild ni Hikinukarete S-Rank ni Narimashita > 03
-D blade-play > 02  dropped
-D bloody-cross > 01 > dropped
+D blade play > 02  dropped
+D bloody cross > 01 > dropped
+bluetooth love > 28
 boarding-diary > 01
 boku-ga-yuusha-de-maou-mo-boku-de > 03
 Boku No Aderia > 05
@@ -269,9 +270,10 @@ Ichijou-san wa Kao ni Deyasui > 03
 ichiokunen-button-o-rendashita-ore-wa-kidzuitara-saikyou-ni-natteita > 9.1
 ichizu-de-bitch-na-kouhai > 39
 idol-to-otaku-no-risou-no-kankei > 36
+Ie ga Moete Jinsei Dou Demo Yoku Natta kara, Nokotta Nakenashi no Kin de Dark Elf no Dorei o Katta > 05.2
 iinchou-sakki-toile-de-onatteta-desho-itta-kaisuu-ga-barechau-sekai > 44
 Ijimerare Musume to Ijirikko ~ Ore Shika Shiranaiyarashii Karada > 03
-ijiranaide-nagatoro-san > 112
+ijiranaide-nagatoro-san > 113
 ijiranaide-nagatoro-san: Comic Anthology > 10
 ike-loli > 13
 Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Shita > 3.1
@@ -373,7 +375,7 @@ kage-no-jitsuryokusha-ni-naritakute > 06
 Kage no Kyuutei Majutsushi > 03
 kaguya-wants-to-be-confessed-to-official-doujin
 kaguya-sama-wa-kokurasetai-doujin-ban > 11.5
-kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 275
+kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen > 277
 kaifuku-jutsushi-no-yarinaoshi > 45.1
 kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life
 Kajiya de Hajimeru Isekai Slow Life > 11
@@ -446,7 +448,7 @@ kono-subarashii-sekai-ni-shufukufu-wo
 kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru
 Konyaku Haki Sareta Reijo Wo Hirotta Ore Ga, Ikenai Koto Wo Oshiekomu Oishi Mono Wo Tabesasete Oshare Wo Sasete, Sekaichi Shiawasena Shojo Ni Produce! > 10
 Koroshi Ai ? 08
-kou-1-desu-ga-isekai-de-joushu-hajimemashita
+D kou-1-desu-ga-isekai-de-joushu-hajimemashita > 9 > Dropped
 Kou 2 ni Time Leaped Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka > 53
 Kouchuu Gunshikan, Boukensha ni Naru > 13
 kou-iu-no-ga-ii-no
@@ -494,6 +496,7 @@ magatsu-wanashi-no-yuusha-kari
 magi-craft-meister
 D Magika no Kenshi to Basileus > 09 > dropped
 mahou-shoujo-of-the-end
+maid rehabilitation > 15
 Mainichi Shine Shine Itte Kuru Gimai ga, Ore ga Neteiru Suki ni Saiminjutsu de Horesaseyou toshite Kuru n desu kedo......! > 01
 Majime Dakedo, Shitain Desu! > 19
 Majime Succubus Hiiragi-san > 02
@@ -524,7 +527,7 @@ Marriage Gray > 04
 Marry Me! > 01
 martial-god-asura
 masamune-kun-no-revenge-after-school > 07
-maseki-gurume-mamono-no-chikara-o-tabeta-ore-wa-saikyou > 21
+maseki gurume mamono no chikara o tabeta ore wa saikyou > 24
 mato-seihei-no-slave > 88
 meccha-shoukan-sareta-ken > 12.5
 D Megami-ryou no Ryoubo-kun. > 01 > dropped
@@ -655,7 +658,7 @@ overgeared
 
 LETRA P
 
-parallel paradise > 200.2
+parallel paradise > 202.2
 party kara tsuihou sareta sono chiyushi jitsu wa saikyou nitsuki > 11
 Pashiri na Boku to Koisuru Banchou-san > 77
 peerless-genius-system
@@ -908,7 +911,7 @@ umarekawatta-kensei-wa-raku-o-shitai
 Unlucky Girl > 04
 unordinary
 until-the-tall-kouhai-girl-and-the-short-senpai-boy-relationship-develops-into-romance
-Updater > 92
+Updater > 93
 C Ura-Account Sensei (One Shot) > 01 > Completed
 D uragirareta-s-rank-boukensha-no-ore-wa > 20 > Dropped
 urami-koi-koi-urami-koi
@@ -946,7 +949,7 @@ yaoguai-mingdan
 Yamada-kun to Lv999 no Koi wo Suru > 36
 Yamashiro-chan wa Kamatte Hoshii > 01
 Yandere Kanojo ni Nemura Sete Moraenai > 11
-Yofukashi No Uta > 139
+Yofukashi No Uta > 142
 D Yome no Manimani > 01 > dropped
 Youjo to Sukoppu to Magan Ou > 6.5
 Youki ni Naritai Shigure-san > 01
