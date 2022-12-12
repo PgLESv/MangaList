@@ -15,7 +15,8 @@
         },
         {
             "Nome": "10-Nen Mae Kara Irete Hoshikute. ~Junshin Gyaru wa Mirai Kara kita Osananajimi~ ",
-            "Capitulo": " 14"
+            "Capitulo": " 27"
+			"Situacao": "Completed"
         },
         {
             "Nome": "D 12-beast ",
@@ -1050,6 +1051,10 @@
             "Capitulo": " 36"
         },
         {
+            "Nome": "Ie ga Moete Jinsei Dou Demo Yoku Natta kara, Nokotta Nakenashi no Kin de Dark Elf no Dorei o Katta ",
+            "Capitulo": " 05.2"
+        },
+        {
             "Nome": "iinchou-sakki-toile-de-onatteta-desho-itta-kaisuu-ga-barechau-sekai ",
             "Capitulo": " 44"
         },
@@ -1059,7 +1064,7 @@
         },
         {
             "Nome": "ijiranaide-nagatoro-san ",
-            "Capitulo": " 113"
+            "Capitulo": " 115"
         },
         {
             "Nome": "ijiranaide-nagatoro-san: Comic Anthology ",
@@ -1238,7 +1243,8 @@
         },
         {
             "Nome": "Isekai Kenja no Tensei Musou ~Geemu no Chishiki de Isekai Saikyou~ ",
-            "Capitulo": " 12"
+            "Capitulo": " 13"
+            "Situacao": "Dropped"
         },
         {
             "Nome": "C Isekai Kita no de Mahou o Sukebe na Koto ni Riyou Shiyou to Omou (One Shot) ",
@@ -1463,7 +1469,7 @@
         },
         {
             "Nome": "kaette-kudasai-akutsu-san ",
-            "Capitulo": " 117"
+            "Capitulo": " 124"
         },
         {
             "Nome": "Kagekuri Kitan ",
@@ -1488,7 +1494,7 @@
         },
         {
             "Nome": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen ",
-            "Capitulo": " 277"
+            "Capitulo": " 278"
         },
         {
             "Nome": "kaifuku-jutsushi-no-yarinaoshi ",
@@ -2298,6 +2304,11 @@
             "Situacao": ""
         },
         {
+            "Nome": "Mushoku Tensei - Eris Gaiden",
+            "Capitulo": "6.2",
+            "Situacao": ""
+        },
+        {
             "Nome": "mushoku-tensei-isekai-ittara-honki-dasu ",
             "Capitulo": " 82"
         },
@@ -2482,7 +2493,7 @@
         },
         {
             "Nome": "Nyanta to Pomeko ~Imasara Shinjite Iru to Iwaretemo Mou Teokure da~ ",
-            "Capitulo": " 04"
+            "Capitulo": " 12"
         },
         {
             "Nome": "nyatto",
@@ -3471,7 +3482,8 @@
         },
         {
             "Nome": "Teihen Ryoushu no Kanchigai Eiyuutan ",
-            "Capitulo": " 10"
+            "Capitulo": " 12"
+			"Situacao": "Dropped"
         },
         {
             "Nome": "Tekitou na Maid no Oneesan to Erasou de Ichizu na Bocchan",
