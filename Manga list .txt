@@ -89,7 +89,7 @@ boku no heya ga dungeon no kyuukeijo ni natteshimatta ken > 18
 D boku no kanojo sensei > 06 > dropped
 Boku no Kanojo wa Saikou desu! > 30
 Boku no Kawaii Vampire > 01
-boku no kokoro no yabai yatsu > 99
+boku no kokoro no yabai yatsu > 104
 bokutachi no remake > 29
 Boku to Gal ga Fuufu ni Naru made > 03
 Bokutoku! Nyuuin Seikatsu > 07
@@ -280,7 +280,7 @@ idol to otaku no risou no kankei > 36
 Ie ga Moete Jinsei Dou Demo Yoku Natta kara, Nokotta Nakenashi no Kin de Dark Elf no Dorei o Katta > 07.2
 iinchou sakki toile de onatteta desho itta kaisuu ga barechau sekai > 44
 Ijimerare Musume to Ijirikko ~ Ore Shika Shiranaiyarashii Karada > 03
-ijiranaide nagatoro san > 124
+ijiranaide nagatoro san > 128
 ijiranaide nagatoro san: Comic Anthology > 10
 ike loli > 13
 Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Shita > 3.1
@@ -380,9 +380,9 @@ jui san no oshigoto in isekai
 LETRA K
 
 Kaettekita Motoyuusha > 2.2
-kaette kudasai! akutsu san > 135
+kaette kudasai! akutsu san > 136
 Kagekuri Kitan > 01
-kage no jitsuryokusha ni naritakute > 50
+kage no jitsuryokusha ni naritakute > 51
 Kage no Kyuutei Majutsushi > 03
 kaguya wants to be confessed to official doujin
 kaguya sama wa kokurasetai doujin ban > 11.5
@@ -473,6 +473,7 @@ kujibiki tokushou musou harem ken
 Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai > 15
 kuro no senki isekai teni shita boku ga saikyou na no wa bed no ue dake no you desu
 kuro no shoukanshi
+Kusozako Choroin Nishiga Hachi > 03
 Kuudere Sugiru Mirai no Yome no Mendouna 7 kakan > 02
 D kuzumi kun kuuki yometemasu ka > 31 > dropped
 kyou kara ore wa loli no himo
@@ -715,6 +716,7 @@ Rikei ga Koi ni Ochita no de Shoumei shitemita > 06
 risou no himo seikatsu > 49
 rokudenashi majutsu koushi to akashic records
 rokudou no onna tachi
+Rokuhime wa Kamigoei ni Koi wo Suru: Saikyou no Shugo Kishi, Tensei shite Mahou Gakuen ni Iku > 13
 rotte no omocha
 ryoumin 0 nin start no henkyou ryoushusama
 
@@ -756,6 +758,7 @@ sekai ka kanojo ka erabenai
 sekai no owari no encore
 sekai saikyou no assassin isekai kizoku ni tensei suru
 sekai saikyou no kouei meikyuukoku no shinjin tansakusha
+Sasha-chan to Classmate Otaku-kun > 01
 sekimen shinaide sekime san > 27
 senken no majutsushi to yobareta kenshi > 14
 D senmetsumadou no saikyou kenja musai no kenja madou wo kiwame saikyou e itaru > 2.2 > Dropped
@@ -929,7 +932,7 @@ LETRA U
 
 ubau mono ubawareru mono
 uchi no hentai maid ni osowareteru
-uchi no kaisha no chiisai senpai no hanashi werwolf version
+uchi no kaisha no chiisai senpai no hanashi > 23
 uchi no musume no tame naraba ore wa moshikashitara maou mo taoseru kamo shirenai
 Uchuujin no Shiwaza desu! > 01
 ueno san wa bukiyou
